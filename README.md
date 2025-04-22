@@ -9,7 +9,7 @@ This repository showcases my technical support knowledge, troubleshooting proces
 - **SOPs (Standard Operating Procedures):** Documentation used in support environments  
 - **Sample Tickets:** Example support scenarios with resolutions  
 - **Scripts:** Simple PowerShell/Bash scripts to assist in IT tasks  
-- **Certifications:** Proof of completed IT certifications (MS-900, ITIL, etc.)  
+- **Certifications:** Proof of completed IT certifications  
 - **Resume:** My updated resume in PDF
 
 ## 📬 About Me

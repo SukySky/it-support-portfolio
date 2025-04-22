@@ -8,8 +8,8 @@ This folder contains PDF certificates of completed IT-related courses and traini
 
 | Certification Title                              | Provider             | Date Completed | Credential ID or Note           |
 |--------------------------------------------------|----------------------|----------------|---------------------------------|
-| Microsoft 365 Fundamentals (MS-900)              | Microsoft / Certiport| Mar 2025       | Certificate available on request |
-| Full Stack Developer Bootcamp                    | ECA & AuzBiz Consulting | December 2024 | Certificate available on request |
+| Microsoft 365 Fundamentals (MS-900)              | Microsoft / Certiport| Mar 2025       | PDF uploaded in the folder |
+| Full Stack Developer Bootcamp                    | ECA & AuzBiz Consulting | December 2024 | PDF uploaded in the folder |
 
 ---
 
